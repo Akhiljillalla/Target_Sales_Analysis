@@ -1,0 +1,1 @@
+dataset: target‑style ecommerce sales data used for analysis practice
